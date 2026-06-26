@@ -2,7 +2,7 @@
 
 Simple ReAct agent
 Agent generated with `agents-cli` version `0.5.0`
-'Cookbook-agent.pdf' contains brief information on idea and demonstrates functions of this agent. 
+[Cookbook-agent.pdf] contains brief information on idea and demonstrates functions of this agent. Link to demo-video: https://youtu.be/FxtlNlc4xQ4?si=liSENuWIX4v5Xrux 
 
 ## 📖 Installation & Cloud Deployment Guide
 
